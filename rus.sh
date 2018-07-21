@@ -35,41 +35,42 @@ figlet "Rusmana" | lolcat
 
    if [ $yo = 01 ] || [ $yo = 1 ];then
    clear
-   figlet "rusmana" | lolcat
+   figlet "Rusmana" | lolcat
    php telkomsel.php
    fi
    if [ $yo = 02 ] || [ $yo = 2 ];then
    clear
-   figlet "rusmana" | lolcat
+   figlet "Rusmana" | lolcat
    php phd.php
    fi
    if [ $yo = 03 ] || [ $yo = 3 ];then
    clear
-   figlet "rusmana" | lolcat
+   figlet "Rusmana" | lolcat
    php tokped.php
    fi
    if [ $yo = 04 ] || [ $yo = 4 ];then
    clear
-   figlet "rusmana" | lolcat
+   figlet "Rusmana" | lolcat
    python2 spammer.py
    fi
    if [ $yo = 05 ] || [ $yo = 5 ];then
    clear
-   toilet "rusmana" | lolcat
+   toilet "Rusmana" | lolcat
    php jdid.php
    fi 
    if [ $yo = 06 ] || [ $yo = 6 ];then
    clear
-   toilet "rusmana" |lolcat
+   toilet "Rusmana" |lolcat
    php run.php
    fi
    if [ $yo = 07 ] || [ $yo = 7 ];then
    clear
-   toilet "rusmana" | lolcat
+   toilet "Rusmana" | lolcat
    python2 lazada.py
    fi
    if [ $yo = 00 ] || [ $yo = 0 ];then
    clear
-   echo "jika ingin mengunakan nya lagi ketik saja sh rus.sh semoga bermanfaat :)" | lolcat
+   echo "jika ingin mengunakan nya lagi ketik saja sh rus.sh
+   semoga bermanfaat :)" | lolcat
    fi
     
