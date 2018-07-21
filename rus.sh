@@ -5,7 +5,7 @@
 #semoga kita bisa bertemu amiin
 
 clear
-figlet "rusmana" | lolcat
+figlet "Rusmana" | lolcat
 
 	echo """
 	\033[34;1m
