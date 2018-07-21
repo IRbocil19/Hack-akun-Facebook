@@ -5,26 +5,26 @@
 #semoga kita bisa bertemu amiin
 
 clear
-figlet "Rusmana" | lolcat
+figlet "rusmana" | lolcat
 
 	echo """
 	\033[34;1m
-[•]=========================================[•]
+[•]============================================[•]
 	quotes   :Salam Anak Bangsa
 	Coders   :Rusmana
 	kontax   :083879017166
 	Thanks To:Mr.R|﴾ஓீ͜ঔৣ͡D4RKF19ঔৣ͡ஓீ͜ঔৣ͡﴿|minami
-[•]=========================================[•]
+[•]============================================[•]
 	"""
 	
 	echo """
-   ==========[01]===>[TELKOMSEL]			  
-   ==========[02]===>[PHD]							  
-   ==========[03]===>[TOKOPEDIA]
-   ==========[04]===>[Grab]							  
-   ==========[05]===>[JD.ID]			  
-   ==========[06]===>[Call-Tokopedia]
-   ==========[07]===>[BOM-Gmail]			  
+   ========[01]===>[TELKOMSEL]			  
+   ========[02]===>[PHD]							  
+   ========[03]===>[TOKOPEDIA]
+   ========[04]===>[Grab]							  
+   ========[05]===>[JD.ID]			  
+   ========[06]===>[Call-Tokopedia]
+   ========[07]===>[BOM-Gmail]			  
 				  
    ==========[00]===>[exit]<====					  
    Sialahkan pilih tools yg mau di gunakan
@@ -34,41 +34,41 @@ figlet "Rusmana" | lolcat
 
    if [ $yo = 01 ] || [ $yo = 1 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "rusmana" | lolcat
    php telkomsel.php
    fi
    if [ $yo = 02 ] || [ $yo = 2 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "rusmana" | lolcat
    php phd.php
    fi
    if [ $yo = 03 ] || [ $yo = 3 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "rusmana" | lolcat
    php tokped.php
    fi
    if [ $yo = 04 ] || [ $yo = 4 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "rusmana" | lolcat
    python2 spammer.py
    fi
    if [ $yo = 05 ] || [ $yo = 5 ];then
    clear
-   toilet "Rusmana" | lolcat
+   toilet "rusmana" | lolcat
    php jdid.php
    fi 
    if [ $yo = 06 ] || [ $yo = 6 ];then
    clear
-   toilet "Rusmana" |lolcat
+   toilet "rusmana" |lolcat
    php run.php
    fi
    if [ $yo = 07 ] || [ $yo = 7 ];then
    clear
-   toilet "Rusmana" | lolcat
+   toilet "rusmana" | lolcat
    python2 lazada.py
    fi
    if [ $yo = 00 ] || [ $yo = 0 ];then
    clear
-   echo "semoga bermanfaat :)" | lolcat
+   echo "jika ingin mengunakan nya lagi ketik saja sh rus.sh semoga bermanfaat :)" | lolcat
    fi
     
