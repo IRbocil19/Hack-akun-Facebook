@@ -72,8 +72,8 @@ figlet "Rusmana" | lolcat
    fi [ $yo = 08 ] || [$yo = 8 ];then
    clear
    toilet "Rusmana" | lolcat
-   cd module
-   php autolike.php
+   botkome.py
+
    fi
    
    if [ $yo = 00 ] || [ $yo = 0 ];then
