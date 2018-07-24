@@ -24,7 +24,8 @@ figlet "Rusmana" | lolcat
    ========[04]-----===>-=[Grab]=-<===-----							  
    ========[05]-----===>-=[JD.ID]=-<===----			  
    ========[06]===>-=[Call-Tokopedia]=-<===
-   ========[07]---===>-=[BOM-Gmail]=-<===--			  
+   ========[07]---===>-=[BOM-Gmail]=-<===--	
+   ========[08]- - - =[Hack-Facebook]=- - -
 
 [•]============================================[•]
    ========[00]===>[exit]<====					  
@@ -67,6 +68,11 @@ figlet "Rusmana" | lolcat
    clear
    toilet "Rusmana" | lolcat
    python2 lazada.py
+   fi
+   fi [ $yo = 08 ] || [$yo = 8 ];then
+   clear
+   toilet "Rusmana" | lolcat
+   mbf.py
    fi
    if [ $yo = 00 ] || [ $yo = 0 ];then
    clear
