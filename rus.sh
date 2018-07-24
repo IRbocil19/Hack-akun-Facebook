@@ -25,7 +25,7 @@ figlet "Rusmana" | lolcat
    ========[05]-----===>-=[JD.ID]=-<===----			  
    ========[06]===>-=[Call-Tokopedia]=-<===
    ========[07]---===>-=[BOM-Gmail]=-<===--	
-   ========[08]- - - =[Hack-Facebook]=- - -
+   ========[08]- - =[Autolike-Facebook]=- -
 
 [•]============================================[•]
    ========[00]===>[exit]<====					  
@@ -72,7 +72,7 @@ figlet "Rusmana" | lolcat
    fi [ $yo = 08 ] || [$yo = 8 ];then
    clear
    toilet "Rusmana" | lolcat
-   mbf.py
+   autolike.php
    fi
    if [ $yo = 00 ] || [ $yo = 0 ];then
    clear
