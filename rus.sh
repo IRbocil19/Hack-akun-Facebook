@@ -18,7 +18,7 @@ figlet "Rusmana" | lolcat
 	"""
 	
 	echo """
-   ========[01]--===>-=[TELKOMSEL]=-<===---			  
+   ========[01]--===>-=[ddos]=-<===---			  
    ========[02]-----===>-=[PHD]=-<===------							  
    ========[03]--===>-=[TOKOPEDIA]=-<===---
    ========[04]-----===>-=[Grab]=-<===-----							  
@@ -37,7 +37,7 @@ figlet "Rusmana" | lolcat
    if [ $yo = 01 ] || [ $yo = 1 ];then
    clear
    figlet "Rusmana" | lolcat
-   php telkomsel.php
+   ddos.py
    fi
    if [ $yo = 02 ] || [ $yo = 2 ];then
    clear
