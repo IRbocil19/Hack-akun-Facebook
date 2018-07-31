@@ -23,3 +23,4 @@ if [ $L = L ] || [ $L = l ]
 then
 clear
 toilet -f shadow -F gay "Rusmana"
+fi
