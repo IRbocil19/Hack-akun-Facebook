@@ -96,6 +96,9 @@ figlet "Rusmana" | lolcat
    mbf.py
    fi
    if [ $yo = 00 ] || [ $yo = 0 ];then
+   pkg install cmatrix
+   cmatrix
+   fi
    clear
    echo "jika ingin mengunakan nya lagi ketik saja sh rus.sh
    semoga bermanfaat :)" | lolcat
