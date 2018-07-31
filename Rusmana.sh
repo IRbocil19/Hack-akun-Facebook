@@ -22,6 +22,7 @@ figlet "Rusmana" | lolcat
 	echo """
 	pkg install sl
 	
+	
    ========[01]--===>-=[TELKOMSEL]=-<===---			  
    ========[02]-----===>-=[PHD]=-<===------							  
    ========[03]--===>-=[TOKOPEDIA]=-<===---
