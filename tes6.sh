@@ -23,7 +23,7 @@ echo "\033[31;1mPILIH TOOLS YG MAU DI GUNAKAN"
 echo "\033[34;1mSEBAGIAN TOOSL ADA YG TIDAK JALAN]"
 echo "\033[31;1m[•]================================[•]"
 echo"""
-date
+date | lolcat
 echo "\033[35m"
 echo "Ketik \033[31mL \033[32muntuk lanjut"
 read -p "Ketik :" L ;
