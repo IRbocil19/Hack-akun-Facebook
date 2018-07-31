@@ -1,26 +1,56 @@
-#!/usr/bin/bash
+##!/system/xbin/bash
 
-# Bismillah Semoga bisa amiin
+#Di Recode Boleh Asal Tambah fiturnya!!!
+
+#Dua tiga tutup Botol, yang baca pada tolol
 
 clear
-figlet "Rusmana" | lolcat
-echo "\033[31;m[•]==========================[•]
-echo "\033[34;mCoders \033[32;m: \033[31;mRusmana
-echo "\033[31;mkontak \033[36;m: \033[34;m083879017166
-echo "\033[32;mquetes \033[31;m: \033[35;mSalam Anak Bangsa
-echo "\033[31;mAnak Muda Berkarya \033[34;mBukan Bergaya
-echo "\033[35;mCowok Keren \033[32;mTanpa \033[31;mAsap Roko
-echo "\033[34;mGenerasi Muda \033[35;mBebas \033[31;mNARKOBA
-echo \033[31;mdate : \033[34;m31-07-2018
-echo "\033[34;m[•]==========================[•]
-sleep 2
-date | lolcat
-echo "\033[31;m"
-echo "ketik \033[34;mL \033[31;muntuk lanjut"
-red -p "Ketik": L;
 
-if [ $L = L ] || [ $L = l ]
-then
-clear
-toilet -f shadow -F gay "Rusmana"
-fi
+blue='\033[34;1m'
+
+green='\033[32;1m' 
+
+purple='\033[35;1m'
+
+cyan='\033[36;1m'
+
+red='\033[31;1m'
+
+white='\033[37;1m' 
+
+
+figlet Mr.9.5.9
+
+echo ""
+
+echo "\033[34;1mCreated By : Mr_tr3v!0n"
+
+echo "\033[35;1mContact Me : 083879017166"
+
+sleep 1
+
+echo ""
+
+echo "\033[35;1m[+]================================================[+]"
+
+echo "\033[37;1mPilih Yang Mau di eksekusi"
+
+echo "\033[36;1m"
+
+echo "\033[35;1m[+]________________________________[+]"
+
+echo $green "1.Admin Finder=>>"
+
+echo "\033[35;1m[+]___________________________[+]"
+
+echo $cyan "2.Ddos=>>"
+
+echo "\033[35;1m[+]________________________________________________[+]"
+
+echo $red "3.Ddos [hammer]=>>"
+
+echo "\033[35;1m[+]________________________________________________[+]"
+
+echo $blue "4.Ddos [liteDDOS]=>>"
+
+echo "\033[35;1m[+]________________________________________________[+]"
