@@ -1,7 +1,8 @@
 
 
 #!/usr/bin/bash
-#apa lu >:[]
+#apa lu lihat-lihat gue njing..
+#asw
 
 clear
 
