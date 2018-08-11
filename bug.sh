@@ -1095,8 +1095,8 @@ echo "\033[35;1mAssalamu'alaikum wr.wb.. jgn lupa berdo'a dl biar work"
 sleep 3
 apt update && apt upgrade
 apt install tsu 
-apt install nmapapt
-apt install wgetapt
+apt install nmap
+apt install wget
 apt install curl
 clear
 figlet "Rusmana" | lolcat
