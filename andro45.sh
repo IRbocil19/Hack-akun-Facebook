@@ -1012,7 +1012,7 @@ clear
 else
   echo "\033[31;1mpasoword salah.."
   sleep 2
-  sh tes.sh
+  sh andro45.sh
 fi
 figlet "andro 45" | lolcat
 echo "\033[34;1m__________________________________________________"
