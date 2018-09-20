@@ -3,6 +3,25 @@
 # Knp lu sirik
 
 clear
+echo
+sleep 1
+figlet "Indonesia" | lolcat
+sleep 1
+figlet "Cyber" | lolcat
+sleep 1
+figlet "Army" | lolcat
+sleep 1
+echo "\033[32;1m"
+read -p "Masukan Pasword : " pass
+if [ $pass = "Indonesia-Cyber-Army" ];then
+clear
+echo "\033[34;1mLogin success...."
+sleep 1
+clear
+else echo "\033[31;1mpasoword salah.." 
+sleep 2 
+sh kalender.sh
+fi
 sleep 0.9
 echo "\033[32;1m-----[ BIG FAMILY INDONESIA CYBER ARMY ]------"
 echo "\033[31;1m"
