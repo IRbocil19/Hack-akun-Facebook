@@ -1,4 +1,3 @@
-# Rusmana
-ingin menjadi seorang programer yg succes
-dan bisa membanggakan kedua org tua 
-and NKRI
+PROGRAMER-DEVELOPER-GERETONGER-EDITOR
+YOUTUBER-HACKER-PHISINGER DAN SKILL
+LAINNYA
