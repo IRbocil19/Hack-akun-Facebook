@@ -1,0 +1,64 @@
+red='\e[1;31m'
+
+green='\e[1;32m'
+
+blue='\e[1;34m'
+
+purple='\e[1;35m'
+
+c='\e[1;36m'
+
+white='\e[1;37m'
+
+yellow='\e[1;33m'
+
+#aboody
+
+echo -e " \e[1;34m|★=============\e[1;36m=========>>>\e[1;37m THE.MBRATWR \e[1;36m <<<========\e[1;34m===========★|"
+
+echo
+
+echo -e " \e[1;34m|★=============\e[1;36m=============>>>\e[1;37m M.T.R\e[1;36m <==============\e[1;34m===========★|"
+
+echo
+
+echo
+
+echo -e " \e[1;31m MMMM MMMM TTTTTTTTTTTTTTTTTTTT RRRRRRRRRRRRRRR
+
+     MMMMMM MMMMMM TTTTTTTTTTTTTTTTTTTT RRRRR RRRRR
+
+     MMMMMMM MMMMMMM TTTT RRRR RRRR
+
+     MMMMMMMM MMMMMMMM TTTT RRR RRR
+
+   \e[1;37m MMMMMMMMM MMMMMMMMM TTTT RRRR RRRR
+
+     MMMM MMMMMMMMM MMMM TTTT RRRRR RRRRR
+
+     MMMM MMMMM MMMM TTTT RRRRRRRRRRRRRRR
+
+     MMMM MMM MMMM TTTT RRRRR RRRRR
+
+   \e[1;31m MMMM MMM MMMM TTTT RRRRR RRRRR
+
+     MMMM MMM MMMM TTTT RRRRR RRRRR
+
+      MMM MMM TTTT RRRRR RRRRR
+
+       MM MM TTTT RRRRR RRRRR
+
+      \e[1;37m M M TT RRRRR RRRRR"
+
+echo
+
+echo -e " \e[1;31m ≪ \e[1;37m<?=X-One\e[1;31m ≫\e[1;34m ∈≡≡≡≡≡≡≡≡≡≡≡≡∋\e[1;31m ≪\e[1;37m THE.MBRATWR\e[1;31m ≫\e[1;34m ∈≡≡≡≡≡≡≡≡≡≡≡∋\e[1;31m ≪\e[1;37m MTR\e[1;31m ≫" 
+
+echo
+
+PS1='\[\033[01;31m\]┌─\[\033[01;34m\][\[\033[01;32m\]THE\[\033[01;31m\].\[\033[01;32m\]<?=X-One?>\[\033[01;34m\]]\[\033[01;31m\]============\e[1;31m=====\[\033[01;33m\]\[\033[01;31m\]=====\e[1;31m=====\[\033[01;34m\][\[\033[01;32m\]\t\[\033[01;34m\]]\[\033[01;31m\]⇐⇒\[\033[01;34m\][\[\033[01;32m\]2018\[\033[01;34m\]]\[\033[01;31m\]$
+
+\[\033[01;31m\]¦
+
+\[\033[01;31m\]└─\[\033[01;34m\][ \[\033[01;31m\]${PWD/*\//}\[\033[01;34m\] ]\[\033[01;33m\] -\[\033[01;33m\]}\[\033[01;33m\] '
+
