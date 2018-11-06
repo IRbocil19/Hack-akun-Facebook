@@ -171,7 +171,7 @@ fi
 if [ $rus = 16 ];then
 clear
 pip install -r requirements.txt
-pip install --upgrade pip
+
 uzip bch.zip
 ls
 cd bch
