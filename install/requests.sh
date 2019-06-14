@@ -1,3 +1,0 @@
-z="
-";kz='pip ';Ez='t up';pz='hani';nz='p';Mz='toil';mz='e pi';gz=' bs4';oz=' mec';Nz='nano';Vz='pyth';Lz='et';qz='ze';dz=' req';Gz='e';hz='nmap';Yz='requ';Az='apt ';iz='curl';Fz='grad';Zz='ests';az='pip2';Oz='lolc';Uz='php';Wz='on';cz='tall';Sz='gem ';Rz='gem';Qz='ruby';fz='s';Tz='bash';Iz='inst';Dz='& ap';bz=' ins';ez='uest';jz='git';Bz='upda';Hz='pkg ';lz='--up';Cz='te &';Pz='at';Xz='on2';Jz='all ';Kz='figl';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Hz$Iz$Jz$Mz$Lz$z$Hz$Iz$Jz$Nz$z$Hz$Iz$Jz$Oz$Pz$z$Hz$Iz$Jz$Qz$z$Hz$Iz$Jz$Rz$z$Sz$Iz$Jz$Oz$Pz$z$Hz$Iz$Jz$Tz$z$Hz$Iz$Jz$Uz$z$Hz$Iz$Jz$Vz$Wz$z$Hz$Iz$Jz$Vz$Xz$z$Hz$Iz$Jz$Yz$Zz$z$az$bz$cz$dz$ez$fz$z$az$bz$cz$gz$z$Hz$Iz$Jz$hz$z$Hz$Iz$Jz$iz$z$Hz$Iz$Jz$jz$z$kz$Iz$Jz$lz$Fz$mz$nz$z$az$bz$cz$oz$pz$qz" 
